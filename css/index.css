@@ -281,7 +281,8 @@ footer nav a {
 }
 .container-secondLayer {
     display: flex;
-    padding-top: 50px;
+    padding-top: 25px;
+    border-bottom: 1px dashed black;
 }
 .container-firstLayer .container-strategy {
    border-bottom: 1px dashed black;
@@ -292,7 +293,8 @@ footer nav a {
     padding-bottom: 25px;
  }
 .container-work-together {
-    padding: 20px;  
+    border-bottom: 1px dashed black;
+    padding-bottom: 25px;  
 }
 .paragraph-divs {
     padding-bottom: 10px;

@@ -38,11 +38,19 @@ Semantic HTML is all about meaning, it's a way to specify what kind of element e
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+Block elements take up the width of the whole page and start on a new line, inline elements appear side by side with other inline elements, do not start on a new line and take up only as much width as it needs..
+
 3. What are the 4 areas of the box model?
+
+The four areas of the box model are margin, border, padding, and content.
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+Align-items operates in the direction of the cross axis.
+
 5. Explain why git is valuable to a team of developers.
+
+Git gives teams of coders a way to work on the same project and save all versions. This saves time from people writing the same thing, keeps people from overwriting, editing or deleting files unintentionally, and aids in collaboration
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
