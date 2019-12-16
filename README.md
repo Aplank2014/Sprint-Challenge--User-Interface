@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-Semantic HTML is all about meaning, it's a way to specify what kind of element each tag is.
+Semantic HTML is all about meaning, it's a way to specify what kind of element each tag is.  Many people can standardize their code using the same type of semantic tags instead of everyone making up their own.  It aids in readability for other coders and helps communicate more effectively with the browser.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
