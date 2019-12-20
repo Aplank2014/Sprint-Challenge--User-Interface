@@ -272,33 +272,49 @@ footer nav a {
     border-bottom: 1px dashed black;
     padding-bottom: 25px;
 }
+
 .container-firstLayer {
     padding-top: 50px;
     display: flex;
 }
+
 .container-work {
     border-bottom: 1px dashed black;
+    display: flex;
+    width: 35%;
+    flex-direction: column;
 }
+.container-collaboration {
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+}
+
 .container-secondLayer {
     display: flex;
     padding-top: 25px;
     border-bottom: 1px dashed black;
 }
+
 .container-firstLayer .container-strategy {
    border-bottom: 1px dashed black;
    padding-bottom: 25px;
 }
+
 .container-secondLayer .container-collaboration {
     border-bottom: 1px dashed black;
     padding-bottom: 25px;
  }
+
 .container-work-together {
     border-bottom: 1px dashed black;
     padding-bottom: 25px;  
 }
+
 .paragraph-divs {
     padding-bottom: 10px;
 }
+
 button {
     background-color: white;
     color: black;
@@ -308,6 +324,7 @@ button {
     height: 50px;
     border-color: black;
 }
+
  h2 {
     font-size: 18px;
     margin-bottom: 15px;
@@ -319,6 +336,7 @@ button {
     width: 800px;
     margin: 0 auto;
 }
+
 .contact form {
     margin-top: 2%;
     margin-left: 2%;
