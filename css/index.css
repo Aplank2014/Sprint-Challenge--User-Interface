@@ -279,36 +279,45 @@ footer nav a {
 }
 
 .container-work {
-    border-bottom: 1px dashed black;
     display: flex;
-    width: 35%;
+    width: 45%;
     flex-direction: column;
+    margin: 2%;
+    border-bottom: 1px dashed black;
+    padding-bottom: 25px;
 }
 .container-collaboration {
     display: flex;
     flex-direction: column;
-    width: 35%;
+    width: 45%;
+    margin: 2%;
+    border-bottom: 1px dashed black;
 }
 
 .container-secondLayer {
     display: flex;
     padding-top: 25px;
-    border-bottom: 1px dashed black;
+    margin: 2%;
 }
 
-.container-firstLayer .container-strategy {
-   border-bottom: 1px dashed black;
-   padding-bottom: 25px;
+.container-strategy {
+    display: flex;
+    width: 45%;
+    flex-direction: column;
+    margin: 2%;
+    border-bottom: 1px dashed black;
+    padding-bottom: 25px;
 }
 
 .container-secondLayer .container-collaboration {
-    border-bottom: 1px dashed black;
     padding-bottom: 25px;
  }
 
-.container-work-together {
-    border-bottom: 1px dashed black;
-    padding-bottom: 25px;  
+.container-work-together {\
+    display: flex;
+    width: 90%;
+    flex-direction: column;
+    margin: 2%;
 }
 
 .paragraph-divs {
